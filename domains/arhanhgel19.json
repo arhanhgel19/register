@@ -6,6 +6,6 @@
         "email": "arhangel92@gmail.com"
     },
     "record": {
-        "CNAME": "arhanhgel19.github.io"
+        "A": ["194.180.188.241"]
     }
 }
